@@ -6,17 +6,15 @@ I’m a passionate Full Stack Developer focused on building modern, scalable, an
 🌱 Always learning and upgrading with new web technologies and frameworks
 📬 Let’s build something impactful together!
 
+
 🚀 Projects Overview
+
 Project	Description
-Cozy-Corner	A real-time social space for users to connect and share (UI/UX-forward).
-Focus-Connect	Productivity & communication platform with video and messaging features.
-Website-Creator-Hub	A website generator tool enabling fast site creation with templates.
-Chai-Chat-Hero	Chat platform with thematic UI and seamless interaction.
-Spontaneous-Talk	A spontaneous discussion app for live conversations.
 EasyVoice	A voice-enabled communication and transcript tool.
 Royal-Enfield	Stylish front-end portfolio or official replica site (brand project).
 E-commerce	A full-featured shopping platform with cart, inventory & checkout.
-RootKumar (Portfolio)	Central repository for my personal portfolio & showcase.
+
+
 📂 Technologies I Work With
 
 💻 Frontend: HTML, CSS, Tailwind, React, Next.js
@@ -26,25 +24,6 @@ RootKumar (Portfolio)	Central repository for my personal portfolio & showcase.
 🌍 Tools: Git, GitHub, VS Code, Lovable UI, Figma
 
 ✨ Featured Projects
-🛠️ Cozy-Corner
-
-A cozy interactive web space with chat & video integrations — perfect for social connections and community engagement.
-
-🧠 Focus-Connect
-
-A productivity app merging video rooms and messaging, designed for remote teams and casual meetups.
-
-🌐 Website-Creator-Hub
-
-A dynamic tool that allows users to generate beautiful websites instantly using pre-designed templates.
-
-☕ Chai-Chat-Hero
-
-A chat interface with engaging UI and smooth user experience — great for social and passion-driven chat projects.
-
-💬 Spontaneous-Talk
-
-An app built for spontaneous and casual chats — perfect for discovering new conversations.
 
 🎤 EasyVoice
 
